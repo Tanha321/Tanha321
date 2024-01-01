@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Fiverr**
 
-- 🌱 I’m currently learning **Bootstrap & java**
+- 🌱 I’m currently learning **Full Stuck Web Development**
 
 - 👯 I’m looking to collaborate on **HS Web Soft**
 
@@ -27,4 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanha321&show_icons=true&locale=en" alt="tanha321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanha321&" alt="tanha321" /></p>
+
 
